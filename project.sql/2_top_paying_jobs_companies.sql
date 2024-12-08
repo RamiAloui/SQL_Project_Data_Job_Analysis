@@ -39,7 +39,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC 
 
 
-LIMIT 10
+LIMIT 100
 
 
 
