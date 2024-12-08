@@ -23,6 +23,8 @@ Key datasets used in this project:
 - **🗄 SQL**: For querying and analyzing relational data.
 - **📂 Relational Database**: To simulate real-world datasets with normalized tables.
 - **🔗 GitHub**: For version control, collaboration, and project sharing.
+- **💻 Visual Studio Code**: As the main code editor for SQL and other project-related coding tasks.
+- **🐘 PostgreSQL**: The relational database management system used for storing and querying data.
 
 ---
 
@@ -47,7 +49,7 @@ LIMIT 10;
 ```
 
 **Visualization** :
-![Top Paying Data Analyst Jobs in Portugal](images/graph.png)
+![Top Paying Data Analyst Jobs in Portugal](assets/graph.png)
 
 ### 2️⃣ **Top Paying Companies For Remte Work**
 A ranking of companies offering the highest salaries for Data Analyst roles remotely. The results also include the technical skills required for these top-paying roles, allowing professionals to understand what expertise is most valued.
@@ -73,7 +75,7 @@ This section highlights the most sought-after skills for Data Analysts, showcasi
 | power Bi          | 39468       |
 
 **Visualization** :
-![Top In-Demand Skills for Data Analysts](assets\Top In-Demand Skills for Data Analysts.png)
+![Top In-Demand Skills for Data Analysts](assets/Top%20In-Demand%20Skills%20for%20Data%20Analysts.png)
 
 
 ### 4️⃣ **Top Paying Skills**
@@ -86,6 +88,7 @@ By analyzing job postings, this section reveals the technical skills associated 
 | couchbase         | 160,515            |
 | datarobot         | 155,486            |
 | golang            | 155,000            |
+
 
 ### 5️⃣ **Optimal Skills**
 This query combines salary data with skill demand to identify the skills that are not only in demand but also yield the best salaries. A strategic guide for career advancement.
