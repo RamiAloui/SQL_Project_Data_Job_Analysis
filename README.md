@@ -1,9 +1,9 @@
-# 📊 Data Analysis of Job Postings and Skills
+# 📊 Data Analysis of Job Postings and Key Skills
 
 ## 📌 Introduction
 
 This project is a deep dive into the world of job market data, focusing on **Data Analyst roles**. The goal is to analyze job postings, uncover the most in-demand skills, understand salary trends, and provide actionable insights for both job seekers and industry professionals. Using structured datasets and SQL, we extract meaningful patterns and correlations to answer critical questions about the job market.
-
+Check out my SQL queries here [project_sql_folder](/project.sql/)
 ---
 
 ## 📖 Background
